@@ -1,0 +1,4 @@
+explorys_patient_id,source_system_type,source_connection_type,record_id_hash,data_grid_date_updated,std_status,std_gender,std_language,birth_year,death_year,is_deceased,postal_code_3,std_ethnicity,std_insurance_type,std_race
+471148498,CLINICAL,DIRECT,32858566506,2017-06-12 11:57:12.0,1,2,eng,1943,,false,320,,MEDICARE,101
+471148498,CLINICAL,DIRECT,32863086506,2017-04-13 02:45:20.0,1,2,eng,1943,,false,320,non_hispanic,MEDICARE,101
+471148498,CLINICAL,DIRECT,32865726506,2017-08-10 10:30:40.0,1,2,,1943,,false,320,non_hispanic,MEDICARE,101
